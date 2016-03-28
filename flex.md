@@ -35,8 +35,6 @@ flex布局依赖于flex directions，包含包含父元素(flex container)和子
 **4.flex-flow（flex container）**
 这个是“flex-direction”和“flex-wrap”属性的缩写版本。同时定义了伸缩容器的主轴和侧轴。其默认值为`row nowrap`。
 ><flex-direction> | <flex-wrap>
-#####flex可以实现水平垂直居中
-在Flex容器中，当项目边距设置为“auto”时，设置自动的垂直边距将使该项目完全集中两个轴。
 
 **5.justify-content（flex container）**
 
